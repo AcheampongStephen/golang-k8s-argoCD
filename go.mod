@@ -1,3 +1,3 @@
-module github.com/iam-veeramalla/go-web-app
+module github.com/AcheampongStephen/golang-k8s-argoCD
 
-go 1.22.5
+go 1.24.0
